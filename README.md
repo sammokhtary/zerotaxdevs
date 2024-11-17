@@ -20,4 +20,4 @@ You're welcome to use the data as long as you give attribution in the form of wr
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
